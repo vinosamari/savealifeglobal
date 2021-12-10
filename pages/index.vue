@@ -2,6 +2,7 @@
   <div>
     <hero />
     <enrollments />
+    <pandemic />
   </div>
 </template>
 
