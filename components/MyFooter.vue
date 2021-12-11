@@ -28,7 +28,10 @@ footer {
 .otherLinks {
   @apply row-span-2 list-none mx-auto font-bold underline md:flex;
 }
+.copy {
+  @apply capitalize;
+}
 li {
-  @apply md:mx-5 md:text-2xl my-3 text-xs;
+  @apply md:mx-5 md:text-2xl my-3 text-xs tracking-widest md:tracking-normal text-right cursor-pointer;
 }
 </style>

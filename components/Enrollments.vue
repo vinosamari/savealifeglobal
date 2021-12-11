@@ -26,6 +26,6 @@ section {
   @apply h-32 md:h-64 object-contain;
 }
 button {
-  @apply bg-green-900 text-black uppercase mx-auto px-4 mt-3 md:text-3xl py-2 text-xs tracking-wide cursor-pointer font-customThree font-bold;
+  @apply bg-green-900 text-black uppercase mx-auto px-4 mt-3 md:text-2xl py-2 text-xs tracking-wide cursor-pointer font-customThree font-bold rounded-md transform hover:scale-110 duration-300;
 }
 </style>
